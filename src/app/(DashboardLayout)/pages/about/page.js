@@ -98,7 +98,7 @@ const About = () => {
         {/* --------------------------------------------------------------------------------*/}
         <Card>
           <CardBody>
-            <h4>Xtreme Nextjs Admin Pro Version</h4>
+            <h4>Ample Nextjs Admin Pro Version</h4>
             <p>
               5 premium and highly customizable demo variations included in the
               package, with React Router 6, Redux Toolkit, Axios nd much more...
