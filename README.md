@@ -22,7 +22,7 @@ Ample Admin Free Next Js Template
     <a href="https://ample-admin-next-js-free.vercel.app/">Live Preview</a>
   </td>
   <td>
-  <a href="https://ample-nextjs-admin.vercel.app/dashboards/dashboard1">Live Preview</a>
+  <a href="https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ Ample Admin Free Next Js Template
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg" alt="">
 </a>
 <p>
-  Checkout our premium version of Modernize Tailwind Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://ample-nextjs-admin.vercel.app/dashboards/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/">Download</a>
+  Checkout our premium version of Ample Next Js Dashboard Template for lots more features and ready to use page templates.<br>
+  <a href="https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/">Download</a>
 </p>
 
 <!-- Versions of Template -->
@@ -209,6 +209,8 @@ Ample Admin Free Next Js Template
 - <p>Github: <a href="https://github.com/wrappixel">https://github.com/wrappixel</a></p>
 - <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+- <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
+- <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
 
 
 
