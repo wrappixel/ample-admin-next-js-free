@@ -1,11 +1,5 @@
-# <a href="https://ample-admin-next-js-free.vercel.app/">Ample Admin Next Js Free</a>
+# <a href="https://wrappixel.com/templates/spike-next-js-free-admin-template">Ample Admin Next Js Free</a>
 Ample Admin Free Next Js Template
-
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/ample-next-js-free-admin-template/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/01/ample-admin-nextjs-free.jpg" />
-</a>
-
 
 # Compare with Premium Version 🌓
 
@@ -22,15 +16,15 @@ Ample Admin Free Next Js Template
     <a href="https://ample-admin-next-js-free.vercel.app/">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html">Live Preview</a>
+  <a href="https://spike-nextjs-pro-main.vercel.app">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://www.wrappixel.com/templates/ample-next-js-free-admin-template/">Download Now</a>
+    <a href="https://wrappixel.com/templates/ample-next-js-free-admin-template"><b>Download Now</b></a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/">Purchase Now</a>
+    <a href="https://wrappixel.com/templates/ample-nextjs-admin-dashboard"><b>Purchase Now</b></a>
   </td>
 </tr>
 <tr>
@@ -142,12 +136,12 @@ Ample Admin Free Next Js Template
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/">
+<a target="_blank" href="https://wrappixel.com/templates/ample-nextjs-admin-dashboard">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/02/ample.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of Ample Next Js Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/nextjs/ample-nextjs-admin-free-dist/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/ample-nextjs-admin-dashboard/">Download</a>
+  <a href="https://spike-nextjs-pro-main.vercel.app/"> Check Live Preview</a> | <a href="https://wrappixel.com/templates/ample-nextjs-admin-dashboard"><b>Download</b></a>
 </p>
 
 <!-- Versions of Template -->
@@ -163,17 +157,17 @@ Ample Admin Free Next Js Template
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/ampleadmin/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/ampleadmin" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-bootstrap-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/ample-admin-angular/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/ample-admin-angular" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/ample-react-dashboard/" rel="nofollow" width="150px">
+  <a href="https://wrappixel.com/templates/ample-react-dashboard" rel="nofollow" width="150px">
     <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-admin-template-y.png" alt="" style="max-width:150px;">
   </a>
 </td>
@@ -189,17 +183,17 @@ Ample Admin Free Next Js Template
 
 <!-- Useful Links of Template -->
 # Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com"><b>Admin Theme</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro"><b>Bootstrap Themes</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-lite"><b>Free Bootstrap Admin Templates</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-react-redux-admin"><b>React Bootstrap Template</b></a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/materialpro-vuetify-admin"><b>Vuejs Templates</b></a> from Wrappixel</p>
 
 
 <!-- Licensing of Template -->
 # Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+- <p>Copyright 2024 Wrappixel <a href="https://wrappixel.com"><b>https://wrappixel.com</b></a></p>
+- <p>Licensed under MIT <a href="https://wrappixel.com/license"><b>https://wrappixel.com/license</b></a></p>
 
 
 <!-- Social Media of Adminmart -->
@@ -211,31 +205,3 @@ Ample Admin Free Next Js Template
 - <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
 - <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
 - <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
